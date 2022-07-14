@@ -1,0 +1,5 @@
+module.exports = {
+  "./src/**/*": ["cspell"],
+  "./src/**/*.{js,jsx,ts,tsx}": ["eslint --quiet", "stylelint"],
+  "./src/**/*.{css,scss}": ["stylelint"],
+};
