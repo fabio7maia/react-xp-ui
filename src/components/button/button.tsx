@@ -1,18 +1,19 @@
 import React from 'react';
 
-interface ButtonProps {
+export interface ButtonProps {
 	appearance?: 'primary' | 'secondary';
 	size?: 'sm' | 'md' | 'lg';
 	/**
 	 * Button contents
 	 */
 	onClick?: () => void;
+	children?: React.ReactNode;
 }
 
 /**
  * Primary UI component for user interaction
  */
-export const Button: React.FC<ButtonProps> = ({ appearance = 'primary', size = 'md', children }) => {
+export const Button: React.FC<ButtonProps> = ({ appearance = 'primary', size = 'md', onClick, children }) => {
 	return (
 		<button
 			type="button"
