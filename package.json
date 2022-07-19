@@ -37,7 +37,7 @@
 		"test:coverage": "node scripts/test.js \"--coverage\" \"--watchAll=false\" \"--silent\" \"--forceExit\"",
 		"prepare": "husky install",
 		"git:pre-commit": "lint-staged",
-		"git:pre-push": "yarn run build && yarn run test:coverage",
+		"git:pre-push": "yarn run build",
 		"docs:build": "typedoc",
 		"docs:serve": "yarn run docs:build && npx serve docs",
 		"build-storybook": "build-storybook"
