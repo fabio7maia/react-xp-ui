@@ -1,7 +1,7 @@
 {
-	"name": "react-x-ui",
+	"name": "react-xp-ui",
 	"version": "0.0.0",
-	"description": "🚀 React X UI is a set of components to improve development of simple and beautifull Apps",
+	"description": "🚀 React XP UI is a set of components to improve development of simple and beautifull Apps",
 	"main": "dist/index.js",
 	"module": "src/index.js",
 	"license": "MIT",
