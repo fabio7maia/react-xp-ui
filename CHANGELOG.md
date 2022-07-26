@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/fabio7maia/react-x-ui/compare/v1.0.0...v1.1.0) (2022-07-26)
+
+
+### Features
+
+* refined all references for react-x-ui to react-xp-ui ([5c1b963](https://github.com/fabio7maia/react-x-ui/commit/5c1b96373b474998f2cfd2ef3901ceb6a6c71e33))
+
 # 1.0.0 (2022-07-26)
 
 
