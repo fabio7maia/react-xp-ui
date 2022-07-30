@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.3...v1.4.0) (2022-07-30)
+
+
+### Features
+
+* applied some improves and new features to inputs and modal ([1d6b96c](https://github.com/fabio7maia/react-xp-ui/commit/1d6b96c5925dbacc6fc261bace97c64569123e71))
+
 ## [1.3.3](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.2...v1.3.3) (2022-07-30)
 
 
