@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.1...v1.3.2) (2022-07-30)
+
+
+### Bug Fixes
+
+* fixed props of input checkbox ([c4b61d9](https://github.com/fabio7maia/react-xp-ui/commit/c4b61d9559ccad2b2f0b3f7e8d29ce8cd5892000))
+
 ## [1.3.1](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.0...v1.3.1) (2022-07-30)
 
 
