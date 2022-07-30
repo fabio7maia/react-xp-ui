@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/fabio7maia/react-xp-ui/compare/v1.2.0...v1.3.0) (2022-07-30)
+
+
+### Features
+
+* generate types of code ([0eb8a19](https://github.com/fabio7maia/react-xp-ui/commit/0eb8a19c8bfc681dc548d3424e265ba7b85cdc85))
+
 # [1.2.0](https://github.com/fabio7maia/react-xp-ui/compare/v1.1.0...v1.2.0) (2022-07-30)
 
 
