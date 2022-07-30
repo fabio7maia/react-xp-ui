@@ -1,4 +1,4 @@
-import { useClassName } from '@hooks';
+import { useClassName } from '../../hooks';
 
 interface BoxProps {
 	className?: string;

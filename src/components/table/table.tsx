@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { useClassName, useForceUpdate } from '@hooks';
+import { useClassName, useForceUpdate } from '../../hooks';
 
 type TableRowItem = Record<string, any>;
 

@@ -1,8 +1,7 @@
 import React from 'react';
 
-import { useClassName } from '@hooks';
-import { InputProps, InputPropsDefaultValues } from '@types';
-
+import { useClassName } from '../../hooks';
+import { InputProps, InputPropsDefaultValues } from '../../types';
 import { FormControl } from '../formControl';
 
 interface InputInnerProps extends InputProps {

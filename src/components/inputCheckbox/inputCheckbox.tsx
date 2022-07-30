@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { useClassName } from '@hooks';
-import { InputProps, InputPropsDefaultValues } from '@types';
+import { useClassName } from '../../hooks';
+import { InputProps, InputPropsDefaultValues } from '../../types';
 
 interface InputCheckboxProps extends InputProps {
 	items: string[];
