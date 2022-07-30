@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.2...v1.3.3) (2022-07-30)
+
+
+### Bug Fixes
+
+* fixed onClick button prop ([fe1974c](https://github.com/fabio7maia/react-xp-ui/commit/fe1974c739f083900c4a732e642829f7530d2d51))
+
 ## [1.3.2](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.1...v1.3.2) (2022-07-30)
 
 
