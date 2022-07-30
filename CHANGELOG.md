@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/fabio7maia/react-xp-ui/compare/v1.1.0...v1.2.0) (2022-07-30)
+
+
+### Features
+
+* refined components exportations ([bfa7590](https://github.com/fabio7maia/react-xp-ui/commit/bfa75905879bd07bc26540a8447102ccbc281fe1))
+
 # [1.1.0](https://github.com/fabio7maia/react-x-ui/compare/v1.0.0...v1.1.0) (2022-07-26)
 
 
