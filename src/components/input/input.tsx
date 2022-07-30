@@ -1,4 +1,4 @@
-import React, { HTMLInputTypeAttribute } from 'react';
+import React from 'react';
 
 import { useClassName } from '@hooks';
 import { InputProps, InputPropsDefaultValues } from '@types';
