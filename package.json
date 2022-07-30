@@ -24,7 +24,7 @@
 		"start:css": "npx tailwindcss -i ./src/tailwindcss/main.css -o ./src/assets/main.css --watch",
 		"start:storybook": "start-storybook -p 6006",
 		"start": "concurrently \"yarn run start:css\" \"yarn run start:storybook\"",
-		"storybook:build": "build-storybook -s public",
+		"storybook:build": "build-storybook",
 		"storybook:serve": "yarn run storybook:build && npx http-server ./storybook-static/",
 		"lint:errors": "eslint --quiet src/**/*.{ts,tsx}",
 		"lint:fix": "eslint --fix src/**/*.{ts,tsx}",

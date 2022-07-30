@@ -1,6 +1,6 @@
 # Introduction
 
-🚀 React X UI is a set of components to improve development of simple and beautifull Apps.
+🚀 React XP UI is a set of components to improve development of simple and beautifull Apps.
 
 Mainly features:
 
@@ -26,8 +26,8 @@ Mainly features:
 
 # Documentation
 
-https://react-packages-docs.vercel.app/docs/packages?packageName=react-x-ui
+https://react-packages-docs.vercel.app/docs/packages?packageName=react-xp-ui
 
 # Example
 
-https://codesandbox.io/s/react-x-ui-demo-gwmkj
+https://codesandbox.io/s/react-xp-ui-demo-gwmkj
