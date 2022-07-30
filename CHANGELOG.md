@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/fabio7maia/react-xp-ui/compare/v1.3.0...v1.3.1) (2022-07-30)
+
+
+### Bug Fixes
+
+* fixed problem using paths ([e960433](https://github.com/fabio7maia/react-xp-ui/commit/e9604334c17fc204b11a3fdfc0b15f567d6fa6d3))
+
 # [1.3.0](https://github.com/fabio7maia/react-xp-ui/compare/v1.2.0...v1.3.0) (2022-07-30)
 
 
