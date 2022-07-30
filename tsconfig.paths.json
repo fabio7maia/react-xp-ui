@@ -1,6 +1,3 @@
 {
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {}
-  },
+  "compilerOptions": {},
 }

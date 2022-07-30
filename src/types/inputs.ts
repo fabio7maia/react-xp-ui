@@ -5,13 +5,18 @@ export interface FormControlProps {
 	className?: string;
 }
 
-export interface InputProps {
+export interface InputProps<TValue> {
 	required?: boolean;
 	formControl?: Omit<FormControlProps, 'children'>;
 	className?: string;
 	placeholder?: string;
+	value?: TValue;
+	onChange?: (value?: TValue, selectedItem?: Record<string, any>) => void;
 }
 
-export const InputPropsDefaultValues: InputProps = {
+export const InputPropsDefaultValues: InputProps<any> = {
 	required: false,
 };
+
+export type StringNumber = string | number;
+export type BasicType = string | number | boolean;
