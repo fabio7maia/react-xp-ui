@@ -1,7 +1,7 @@
 import React from 'react';
 
 export interface ButtonProps {
-	appearance?: 'primary' | 'secondary';
+	appearance?: 'primary' | 'secondary' | 'accent';
 	size?: 'sm' | 'md' | 'lg';
 	/**
 	 * Button contents
