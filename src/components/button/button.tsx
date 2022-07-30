@@ -20,6 +20,7 @@ export const Button: React.FC<ButtonProps> = ({ appearance = 'primary', size = '
 			className={`btn ${appearance === 'primary' && 'btn-primary'} ${
 				appearance === 'secondary' && 'btn-secondary'
 			} ${size === 'sm' && 'btn-sm'} ${size === 'md' && 'btn-md'} ${size === 'lg' && 'btn-lg'}`}
+			onClick={onClick}
 		>
 			{children}
 		</button>
