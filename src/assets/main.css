@@ -2278,12 +2278,6 @@ html {
   }
 }
 
-.card.bordered {
-  border-width: 1px;
-  --tw-border-opacity: 1;
-  border-color: hsl(var(--b2, var(--b1)) / var(--tw-border-opacity));
-}
-
 .checkbox:focus-visible {
   outline: 2px solid hsl(var(--bc));
   outline-offset: 2px;
@@ -2413,21 +2407,6 @@ body[dir="rtl"] .checkbox:checked,
   .input[disabled]::placeholder {
   color: hsl(var(--bc) / var(--tw-placeholder-opacity));
   --tw-placeholder-opacity: 0.2;
-}
-
-.menu.horizontal li.bordered > a, 
-        .menu.horizontal li.bordered > button, 
-        .menu.horizontal li.bordered > span {
-  border-left-width: 0px;
-  border-bottom-width: 4px;
-  --tw-border-opacity: 1;
-  border-color: hsl(var(--p) / var(--tw-border-opacity));
-}
-
-.menu :where(li.bordered > *) {
-  border-left-width: 4px;
-  --tw-border-opacity: 1;
-  border-color: hsl(var(--p) / var(--tw-border-opacity));
 }
 
 .menu li.disabled > * {
@@ -2713,16 +2692,6 @@ body[dir="rtl"] .checkbox:checked,
   padding: 0px;
 }
 
-.menu-vertical :where(li.bordered > *) {
-  border-left-width: 4px;
-  border-bottom-width: 0px;
-}
-
-.menu-horizontal :where(li.bordered > *) {
-  border-left-width: 0px;
-  border-bottom-width: 4px;
-}
-
 .modal-bottom :where(.modal-box) {
   width: 100%;
   max-width: none;
@@ -2761,10 +2730,6 @@ body[dir="rtl"] .checkbox:checked,
 
 .w-full {
   width: 100%;
-}
-
-.max-w-xs {
-  max-width: 20rem;
 }
 
 .cursor-pointer {

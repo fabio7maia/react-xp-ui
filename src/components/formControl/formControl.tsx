@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { FormControlProps } from '@types';
+import { FormControlProps } from '../../types';
 
 export const FormControl: React.FC<FormControlProps> = ({ label, help, children, className }) => {
 	const labelAlt = Array.isArray(label) ? label[1] : undefined;
